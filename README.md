@@ -1,4 +1,13 @@
-## Hi there 👋
+## Introduction
+**Hi there!** 👋, I'm currently an MSc. student at the BME Faculty of Chemical Technology and Biotechnology in Budapest, where I also completed my BSc. degree. <br>
+I'm involved with the (CAPE)[https://www.ch.bme.hu/en/research/details/group/50/?popup=1] research group, where I'm working on the development of neural networks for optimization tasks. Fortunately, I have plenty of opportunities to grow and learn in my current group. 🌱
+
+## I am particularly interested in 💡:
+- Practical applications of **computer science** especially in **engineering problems**,
+- **Data management** and visualization,
+- Simple **neural networks**,
+- **Open-source development**.
+
 
 <!--
 **Mitosz01/Mitosz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
