@@ -8,8 +8,8 @@ I'm involved with the [CAPE](https://www.ch.bme.hu/en/research/details/group/50/
 - Simple **neural networks**,
 - **Open-source development**.
 
-## About my repository:
-- It's just my projects I did through university, they are raw and unpolished only for helping my similar peers in the future.
+## About my repositories:
+- It's just my projects I did through university, they are raw and unpolished only for helping my similar peers in the future. They are all archived. 
 - I hope in the future I will be able to publish my private work. :smiley:
 
 <!--
